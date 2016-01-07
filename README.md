@@ -1,5 +1,5 @@
 # Project Description
-1. Simpulation of DB2 Query Optimizer: (Available in DB2 folder)
+1. Simulation of DB2 Query Optimizer: (Available in DB2 folder)
   Wriiten in Java 7. Coded in Eclipse IDE. This project primarily focused on developing executable which takes user’s DB2 query as input   and does optimization on the query, which normally DB2 optimizer does
     - Utilized IBM DB2 Z/OS for learning and testing of the code developed
   Sample query input is available in Commands.txt file. To view the output, edit input in Commands.txt and run DBMS.java
