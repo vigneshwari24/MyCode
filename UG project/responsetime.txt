@@ -1,0 +1,11 @@
+G:\smdns\FrontEnd>java FE
+0.016095621
+
+G:\smdns\FrontEnd>java FE
+0.015268421
+
+G:\smdns\FrontEnd>java FE
+0.015185728
+
+G:\smdns\FrontEnd>java FE
+0.014908319
